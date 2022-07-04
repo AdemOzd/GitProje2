@@ -3,6 +3,7 @@ public class Ogrenci {
         System.out.println("merhaba dünya 2");
         System.out.println("merhaba dünya 3");
         System.out.println("dördüncü deneme");
+        System.out.println("son deneme");
 
     }
 }
